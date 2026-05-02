@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brenda+Imalingat!" />
 </h1>
-<h3 align="center">A passionate Passionate WEB 2 & WEB 3 Developer | Network Engineer | Data Science ?& AI engineer from Uganda</h3>
+<h3 align="center">A passionate Passionate WEB 2 & WEB 3 Developer | Network Engineer | Data Science & AI engineer from Uganda</h3>
 <h5 align="center"> Engineer at heart - building with code, data & curiosity. </h5>
 <br/>
 
